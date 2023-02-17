@@ -1,0 +1,1 @@
+INSERT INTO queue_code VALUES (1,'a0a0');
